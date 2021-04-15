@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sales-Report/static/css/main.46874e9c.chunk.css",
+    "main.js": "/Sales-Report/static/js/main.71381b21.chunk.js",
+    "main.js.map": "/Sales-Report/static/js/main.71381b21.chunk.js.map",
+    "runtime-main.js": "/Sales-Report/static/js/runtime-main.9ed80ad6.js",
+    "runtime-main.js.map": "/Sales-Report/static/js/runtime-main.9ed80ad6.js.map",
+    "static/js/2.6b04b227.chunk.js": "/Sales-Report/static/js/2.6b04b227.chunk.js",
+    "static/js/2.6b04b227.chunk.js.map": "/Sales-Report/static/js/2.6b04b227.chunk.js.map",
+    "static/js/3.60d8ade4.chunk.js": "/Sales-Report/static/js/3.60d8ade4.chunk.js",
+    "static/js/3.60d8ade4.chunk.js.map": "/Sales-Report/static/js/3.60d8ade4.chunk.js.map",
+    "index.html": "/Sales-Report/index.html",
+    "static/css/main.46874e9c.chunk.css.map": "/Sales-Report/static/css/main.46874e9c.chunk.css.map",
+    "static/js/2.6b04b227.chunk.js.LICENSE.txt": "/Sales-Report/static/js/2.6b04b227.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ed80ad6.js",
+    "static/js/2.6b04b227.chunk.js",
+    "static/css/main.46874e9c.chunk.css",
+    "static/js/main.71381b21.chunk.js"
+  ]
+}
